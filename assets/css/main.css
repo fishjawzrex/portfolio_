@@ -187,6 +187,10 @@
 		.container {
 			width: 90% !important;
 		}
+		.logo{
+			display: none;
+			visibility: hidden;
+		}
 
 	}
 
@@ -4258,6 +4262,7 @@
 			.banner > article h2 {
 				font-size: 4em;
 			}
+			
 
 		}
 
